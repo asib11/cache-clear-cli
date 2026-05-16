@@ -1,4 +1,4 @@
-# medusa-cache-cli
+# Medusa Cache Cli
 
 A zero-dependency Golang CLI to manage all caches in your **Medusa v2 + Next.js** project from one place.
 
